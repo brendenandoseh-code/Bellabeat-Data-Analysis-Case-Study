@@ -43,3 +43,8 @@ Bellabeat is a high-tech wellness company that designs health-focused smart prod
 - Stakeholder-facing narrative and recommendations
 
 ## File Structure
+
+├── bellabeat_case_study.ipynb    # Full analysis notebook
+├── README.md                     # This file
+├── Fitabase Data 4.12.16-5.12.16/  # FitBit dataset (CSV files)
+└── csv_rais_anonymized/            # LifeSnaps dataset (CSV files)
